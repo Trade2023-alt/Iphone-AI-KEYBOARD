@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IphoneAIKeyboard</string>
+    <string name="title_activity_main">IphoneAIKeyboard</string>
+    <string name="package_name">com.iphoneaikeyboard.app</string>
+    <string name="custom_url_scheme">com.iphoneaikeyboard.app</string>
+</resources>
